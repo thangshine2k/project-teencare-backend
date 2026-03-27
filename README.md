@@ -26,11 +26,11 @@
 ## Project Setup
 
 # Install dependencies
-npm install
+$ npm install
 
 ## Compile and run the project
 
-```bash
+bash
 # development
 $ npm run start
 
@@ -69,7 +69,7 @@ If you are looking for a cloud-based platform to deploy your NestJS application,
 
 $ npm install -g @nestjs/mau
 $ mau deploy
-```
+
 
 With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
 
