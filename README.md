@@ -41,6 +41,14 @@ $ npm run start:prod
 $ npm run seed
 ```
 
+## ENV
+- PORT=8080
+- DB_NAME=app_demo
+- DB_HOST=127.0.0.1
+- DB_USERNAME=postgres
+- DB_PASSWORD=123456
+- DB_PORT=5432    
+
 ## API Endpoints
 - **Parents**
   - POST /api/parents
