@@ -39,6 +39,7 @@ $ npm run start:prod
 
 ## Seed Data
 $ npm run seed
+```
 
 ## API Endpoints
 - **Parents**
@@ -71,7 +72,6 @@ $ mau deploy
 With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
 
 ## Resources
-```
 
 Check out a few resources that may come in handy when working with NestJS:
 
