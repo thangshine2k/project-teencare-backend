@@ -41,7 +41,7 @@ $ npm run start:prod
 $ npm run seed
 ```
 
-## ENV
+## Cấu hình .env
 - PORT=8080
 - DB_NAME=app_demo
 - DB_HOST=127.0.0.1
